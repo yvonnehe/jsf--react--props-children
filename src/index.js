@@ -5,4 +5,6 @@ import './css/index.css';
 // componentns
 import App from './components/App';
 
+import Panel from './components/Panel.js';
+
 ReactDOM.render(<App />, document.getElementById('root'));
